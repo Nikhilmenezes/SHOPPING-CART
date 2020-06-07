@@ -25,7 +25,7 @@ Select the number of Quantities. An alert message displayed if app is expired.
 
 <img src="images/Screenshot_20200607_193904.jpg" width="200" height="200" >
 
-Checkout to weighing machine and place the items. if the wieght matches or not greater than pay and proceed.
+Checkout to weighing machine and place the items.Details in app should be match in weighing machine places.  if the wieght matches or not greater than pay and proceed.
 A sample amount is detected and remaining balance is displyed in dashboard.
 
 <img src="images/Screenshot_20200607_193922.jpg" width="200" height="200" >
