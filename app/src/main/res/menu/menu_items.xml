@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item android:id="@+id/newitm"
+        android:icon="@mipmap/recommend"
+        android:title="Recommend"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/scan"
+        android:icon="@mipmap/barcodescan"
+        android:title="@string/scan"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/reset_id"
+        android:title="@string/reset"
+        android:icon="@mipmap/reset"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/gultoo"
+        android:title="@string/logout"
+        android:icon="@mipmap/logout"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/resamnt"
+        android:title="RESET MY AMOUNT"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/prvpur"
+        android:title="PREVIOUS PURCHASE"
+        app:showAsAction="never" />
+
+</menu>

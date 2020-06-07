@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SHOP KARO</string>
+    <string name="ip_hint">IP</string>
+    <string name="enter_button">ENTER</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="signin_button">LOGIN</string>
+    <string name="signup_button">REGISTER</string>
+    <string name="registername">Enter Name</string>
+    <string name="registermobile">Enter Mobile Number</string>
+    <string name="register">REGISTER</string>
+    <string name="reset">RESET</string>
+    <string name="scan">SCAN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="NBD">No Barcode Detected</string>
+    <string name="ATC">ADD TO CART</string>
+</resources>
